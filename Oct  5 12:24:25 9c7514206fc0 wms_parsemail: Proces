@@ -1,0 +1,5 @@
+Oct  5 12:24:25 9c7514206fc0 wms_parsemail: Processing message with type 'FAX/cti' ...
+Oct  5 12:24:26 9c7514206fc0 wms_parsemail: Document /tmp/session/attachments/IEEE-Conference-A4-format.pdf like format A4
+Oct  5 12:24:27 9c7514206fc0 wms_parsemail: Generating cover file - /tmp/mail2fax/0/cover-51-+4989200060618-1507199065832454798-1.tiff
+Oct  5 12:24:27 9c7514206fc0 faxcover.lua: data file not found: /mnt/faxes/51/faxcover_data_8260273
+Oct  5 12:24:27 9c7514206fc0 wms_parsemail: Error: cover file /tmp/mail2fax/0/cover-51-+4989200060618-1507199065832454798-1.tiff wasn't generated
